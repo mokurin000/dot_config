@@ -14,6 +14,7 @@ getantidote/use-omz        # handle OMZ dependencies
 ohmyzsh/ohmyzsh path:lib   # load OMZ's library
 ohmyzsh/ohmyzsh path:plugins/colored-man-pages  # load OMZ plugins
 ohmyzsh/ohmyzsh path:plugins/magic-enter
+ohmyzsh/ohmyzsh path:plugins/git-prompt
 
 # or lighter-weight ones like Zephyr
 mattmc3/zephyr path:plugins/editor

@@ -16,4 +16,7 @@ alias ls=exa
 . .cargo/env
 
 export UV_DEFAULT_INDEX=https://mirrors.bfsu.edu.cn/pypi/web/simple
+export PULSE_SERVER=127.0.0.1
+
+RPROMPT='$(git_super_status)'
 
