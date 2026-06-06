@@ -33,13 +33,7 @@ git clone --depth=1 https://github.com/mattmc3/antidote.git ${ZDOTDIR:-$HOME}/.a
 zsh
 ```
 
-## 安装 Rust 工具链（Alpine）
-
-```bash
-rustup-init
-```
-
-## 安装 Rust 工具链（Arch）
+## 安装 Rust 工具链
 
 ```bash
 rustup toolchain install nightly --profile minimal
